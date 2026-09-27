@@ -1,0 +1,3 @@
+
+pip install streamlit groq python-dotenv
+pip install streamlit openai python-dotenv
